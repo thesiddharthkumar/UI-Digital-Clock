@@ -52,3 +52,9 @@ const progressFill = document.querySelector('.progress-fill');
 // Notification
 const notification = document.getElementById('notification');
 const notificationMessage = document.getElementById('notification-message');
+
+
+// Starting....
+
+
+//
